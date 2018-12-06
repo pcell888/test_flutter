@@ -1,0 +1,1 @@
+D:\android-sdk-windows\tools\emulator.exe -netdelay none -netspeed full -avd Pixel_2_API_26
